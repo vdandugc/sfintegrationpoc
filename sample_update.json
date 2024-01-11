@@ -1,0 +1,67 @@
+{
+  "AccountNumber": null,
+  "AccountSource": null,
+  "Active__c": null,
+  "AnnualRevenue": null,
+  "BillingAddress": null,
+  "ChangeEventHeader": {
+    "changeOrigin": "com/salesforce/api/soap/59.0;client=SfdcInternalAPI/",
+    "changeType": "UPDATE",
+    "changedFields": [
+      "0x080000400000"
+    ],
+    "commitNumber": 1704730996788387800,
+    "commitTimestamp": 1704730996000,
+    "commitUser": "005WT000000ByTtYAK",
+    "diffFields": [],
+    "entityName": "Account",
+    "nulledFields": [],
+    "recordIds": [
+      "001WT00001wibWeYAI"
+    ],
+    "sequenceNumber": 1,
+    "transactionKey": "00008e1d-f01c-dd52-910a-6723738e4eb6"
+  },
+  "CleanStatus": null,
+  "CreatedById": null,
+  "CreatedDate": null,
+  "CustomerPriority__c": null,
+  "DandbCompanyId": null,
+  "Description": null,
+  "DunsNumber": null,
+  "Fax": null,
+  "Industry": null,
+  "Jigsaw": null,
+  "JigsawCompanyId": null,
+  "LastModifiedById": null,
+  "LastModifiedDate": {
+    "long": 1704730996000
+  },
+  "NaicsCode": null,
+  "NaicsDesc": null,
+  "Name": null,
+  "NumberOfEmployees": null,
+  "NumberofLocations__c": null,
+  "OperatingHoursId": null,
+  "OwnerId": null,
+  "Ownership": null,
+  "ParentId": null,
+  "Phone": null,
+  "Rating": null,
+  "SLAExpirationDate__c": null,
+  "SLASerialNumber__c": null,
+  "SLA__c": null,
+  "ShippingAddress": null,
+  "Sic": null,
+  "SicDesc": null,
+  "SignUpCode__c": {
+    "string": "TEST123"
+  },
+  "Site": null,
+  "TickerSymbol": null,
+  "Tradestyle": null,
+  "Type": null,
+  "UpsellOpportunity__c": null,
+  "Website": null,
+  "YearStarted": null
+}

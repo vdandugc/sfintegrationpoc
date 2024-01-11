@@ -1,0 +1,75 @@
+{
+  "AccountNumber": null,
+  "AccountSource": null,
+  "Active__c": null,
+  "AnnualRevenue": null,
+  "BillingAddress": null,
+  "ChangeEventHeader": {
+    "changeOrigin": "com/salesforce/api/soap/59.0;client=SfdcInternalAPI/",
+    "changeType": "CREATE",
+    "changedFields": [],
+    "commitNumber": 1704985643944001500,
+    "commitTimestamp": 1704985643000,
+    "commitUser": "005WT000000ByTtYAK",
+    "diffFields": [],
+    "entityName": "Account",
+    "nulledFields": [],
+    "recordIds": [
+      "001WT00001wxBA7YAM"
+    ],
+    "sequenceNumber": 1,
+    "transactionKey": "0000262b-ba3b-922f-8aab-0d8741fd40bd"
+  },
+  "CleanStatus": {
+    "string": "Pending"
+  },
+  "CreatedById": {
+    "string": "005WT000000ByTtYAK"
+  },
+  "CreatedDate": {
+    "long": 1704985643000
+  },
+  "CustomerPriority__c": null,
+  "DandbCompanyId": null,
+  "Description": null,
+  "DunsNumber": null,
+  "Fax": null,
+  "Industry": null,
+  "Jigsaw": null,
+  "JigsawCompanyId": null,
+  "LastModifiedById": {
+    "string": "005WT000000ByTtYAK"
+  },
+  "LastModifiedDate": {
+    "long": 1704985643000
+  },
+  "NaicsCode": null,
+  "NaicsDesc": null,
+  "Name": {
+    "string": "Test Account 6"
+  },
+  "NumberOfEmployees": null,
+  "NumberofLocations__c": null,
+  "OperatingHoursId": null,
+  "OwnerId": {
+    "string": "005WT000000ByTtYAK"
+  },
+  "Ownership": null,
+  "ParentId": null,
+  "Phone": null,
+  "Rating": null,
+  "SLAExpirationDate__c": null,
+  "SLASerialNumber__c": null,
+  "SLA__c": null,
+  "ShippingAddress": null,
+  "Sic": null,
+  "SicDesc": null,
+  "SignUpCode__c": null,
+  "Site": null,
+  "TickerSymbol": null,
+  "Tradestyle": null,
+  "Type": null,
+  "UpsellOpportunity__c": null,
+  "Website": null,
+  "YearStarted": null
+}
